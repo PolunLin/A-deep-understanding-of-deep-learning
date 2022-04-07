@@ -1,0 +1,32 @@
+Introduction
+Download all course materials
+Concepts in deep learning
+About the Python tutorial
+Math, numpy, PyTorch
+Gradient descent
+ANNs (Artificial Neural Networks)
+Overfitting and cross-validation
+Regularization
+Metaparameters (activations, optimizers)
+FFNs (Feed-Forward Networks)
+More on data
+Measuring model performance
+FFN milestone projects
+Weight inits and investigations
+Autoencoders
+Running models on a GPU
+Convolution and transformations
+Understand and design CNNs
+CNN milestone projects
+Transfer Learning
+Style transfer
+Generative adversarial networks
+RNNs (Recurrent Neural Networks) (and GRU/LSTM)
+Ethics of deep learning
+Where to go from here?
+Python intro: Data types
+Python intro: Indexing, slicing
+Python intro: Functions
+Python intro: Flow control
+Python intro: Text and plots
+Bonus Section
