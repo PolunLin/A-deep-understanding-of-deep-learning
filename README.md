@@ -6,11 +6,7 @@
 <summary>
 -  0. Introduction 2 堂講座 • 17 分鐘
 </summary>
-'''	
-
 - 0.0. Using Udemy like a pro 09:25
-
-'''
 </details>
 
 <detail><summary>-  1. Download all course materials 2 堂講座 • 8 分鐘
