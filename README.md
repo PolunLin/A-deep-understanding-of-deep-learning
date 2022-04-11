@@ -4,16 +4,16 @@
 ### Course name : A deep understanding of deep learning (with Python intro)
 <details>
 	<summary>
-<h4> 0. Introduction 2 堂講座 • 17 分鐘
-</h4></summary>
+ 0. Introduction 2 堂講座 • 17 分鐘
+</summary>
 
 	0.0. Using Udemy like a pro 09:25
 
 </details>
 <details>
 	<summary>
-<h4> 1. Download all course materials 2 堂講座 • 8 分鐘
-</h4></summary>
+ 1. Download all course materials 2 堂講座 • 8 分鐘
+</summary>
 
 	1.0. Downloading and using the code 06:29
 	1.1. My policy on code-sharing 01:38
@@ -21,8 +21,8 @@
 </details>
 <details>
 	<summary>
-<h4> 2. Concepts in deep learning 5 堂講座 • 1 小時 16 分鐘
-</h4></summary>
+ 2. Concepts in deep learning 5 堂講座 • 1 小時 16 分鐘
+</summary>
 
 	2.0. What is an artificial neural network? 16:02
 	2.1. How models "learn" 12:26
@@ -32,16 +32,16 @@
 </details>
 <details>
 	<summary>
-<h4> 3. About the Python tutorial 1 堂講座 • 4 分鐘
-</h4></summary>
+ 3. About the Python tutorial 1 堂講座 • 4 分鐘
+</summary>
 
 	3.0. Should you watch the Python tutorial? 04:25
 
 </details>
 <details>
 	<summary>
-<h4> 4. Math, numpy, PyTorch 19 堂講座 • 3 小時 21 分鐘
-</h4></summary>
+ 4. Math, numpy, PyTorch 19 堂講座 • 3 小時 21 分鐘
+</summary>
 
 	4.0. PyTorch or TensorFlow? 00:44
 	4.1. Introduction to this section 02:06
@@ -66,8 +66,8 @@
 </details>
 <details>
 	<summary>
-<h4> 5. Gradient descent 10 堂講座 • 1 小時 57 分鐘
-</h4></summary>
+ 5. Gradient descent 10 堂講座 • 1 小時 57 分鐘
+</summary>
 
 	5.0. Overview of gradient descent 14:15
 	5.1. What about local minima? 11:56
@@ -82,8 +82,8 @@
 </details>
 <details>
 	<summary>
-<h4> 6. ANNs (Artificial Neural Networks) 21 堂講座 • 5 小時 11 分鐘
-</h4></summary>
+ 6. ANNs (Artificial Neural Networks) 21 堂講座 • 5 小時 11 分鐘
+</summary>
 
 	6.0. The perceptron and ANN architecture 19:50
 	6.1. A geometric view of ANNs 13:38
@@ -109,8 +109,8 @@
 </details>
 <details>
 	<summary>
-<h4> 7. Overfitting and cross-validation 8 堂講座 • 1 小時 48 分鐘
-</h4></summary>
+ 7. Overfitting and cross-validation 8 堂講座 • 1 小時 48 分鐘
+</summary>
 
 	7.0. What is overfitting and is it as bad as they say? 12:28
 	7.1. Cross-validation 17:13
@@ -124,8 +124,8 @@
 </details>
 <details>
 	<summary>
-<h4> 8. Regularization 12 堂講座 • 2 小時 38 分鐘
-</h4></summary>
+ 8. Regularization 12 堂講座 • 2 小時 38 分鐘
+</summary>
 
 	8.0. Regularization: Concept and methods 13:38
 	8.1. train() and eval() modes 07:14
@@ -143,8 +143,8 @@
 </details>
 <details>
 	<summary>
-<h4> 9. Metaparameters (activations, optimizers) 24 堂講座 • 4 小時 52 分鐘
-</h4></summary>
+ 9. Metaparameters (activations, optimizers) 24 堂講座 • 4 小時 52 分鐘
+</summary>
 
 	9.0. What are "metaparameters"? 05:02
 	9.1. The "wine quality" dataset 17:29
@@ -173,8 +173,8 @@
 </details>
 <details>
 	<summary>
-<h4> 10. FFNs (Feed-Forward Networks) 12 堂講座 • 2 小時 15 分鐘
-</h4></summary>
+ 10. FFNs (Feed-Forward Networks) 12 堂講座 • 2 小時 15 分鐘
+</summary>
 
 	10.0. What are fully-connected and feedforward networks? 04:57
 	10.1. The MNIST dataset 12:33
@@ -191,8 +191,8 @@
 </details>
 <details>
 	<summary>
-<h4> 11. More on data 11 堂講座 • 2 小時 25 分鐘
-</h4></summary>
+ 11. More on data 11 堂講座 • 2 小時 25 分鐘
+</summary>
 
 	11.0. Anatomy of a torch dataset and dataloader 17:57
 	11.1. Data size and network size 16:35
@@ -209,8 +209,8 @@
 </details>
 <details>
 	<summary>
-<h4> 12. Measuring model performance 8 堂講座 • 1 小時 20 分鐘
-</h4></summary>
+ 12. Measuring model performance 8 堂講座 • 1 小時 20 分鐘
+</summary>
 
 	12.0. Two perspectives of the world 07:01
 	12.1. Accuracy, precision, recall, F1 12:39
@@ -224,8 +224,8 @@
 </details>
 <details>
 	<summary>
-<h4> 13. FFN milestone projects 6 堂講座 • 1 小時 2 分鐘
-</h4></summary>
+ 13. FFN milestone projects 6 堂講座 • 1 小時 2 分鐘
+</summary>
 
 	13.0. Project 1: A gratuitously complex adding machine 07:05
 	13.1. Project 1: My solution 11:18
@@ -236,8 +236,8 @@
 </details>
 <details>
 	<summary>
-<h4> 14. Weight inits and investigations 10 堂講座 • 2 小時 19 分鐘
-</h4></summary>
+ 14. Weight inits and investigations 10 堂講座 • 2 小時 19 分鐘
+</summary>
 
 	14.0. Explanation of weight matrix sizes 11:54
 	14.1. A surprising demo of weight initializations 15:52
@@ -253,8 +253,8 @@
 </details>
 <details>
 	<summary>
-<h4> 15. Autoencoders 6 堂講座 • 1 小時 51 分鐘
-</h4></summary>
+ 15. Autoencoders 6 堂講座 • 1 小時 51 分鐘
+</summary>
 
 	15.0. What are autoencoders and what do they do? 11:42
 	15.1. Denoising MNIST 15:48
@@ -265,8 +265,8 @@
 </details>
 <details>
 	<summary>
-<h4> 16. Running models on a GPU 3 堂講座 • 32 分鐘
-</h4></summary>
+ 16. Running models on a GPU 3 堂講座 • 32 分鐘
+</summary>
 
 	16.0. What is a GPU and why use it? 15:07
 	16.1. Implementation 10:13
@@ -275,8 +275,8 @@
 </details>
 <details>
 	<summary>
-<h4> 17. Convolution and transformations 12 堂講座 • 2 小時 56 分鐘
-</h4></summary>
+ 17. Convolution and transformations 12 堂講座 • 2 小時 56 分鐘
+</summary>
 
 	17.0. Convolution: concepts 21:33
 	17.1. Feature maps and convolution kernels 09:32
@@ -294,8 +294,8 @@
 </details>
 <details>
 	<summary>
-<h4> 18. Understand and design CNNs 16 堂講座 • 4 小時 10 分鐘
-</h4></summary>
+ 18. Understand and design CNNs 16 堂講座 • 4 小時 10 分鐘
+</summary>
 
 	18.0. The canonical CNN architecture 10:47
 	18.1. CNN to classify MNIST digits 26:06
@@ -316,8 +316,8 @@
 </details>
 <details>
 	<summary>
-<h4> 19. CNN milestone projects 5 堂講座 • 40 分鐘
-</h4></summary>
+ 19. CNN milestone projects 5 堂講座 • 40 分鐘
+</summary>
 
 	19.0. Project 1: Import and classify CIFAR10 07:15
 	19.1. Project 1: My solution 12:01
@@ -327,8 +327,8 @@
 </details>
 <details>
 	<summary>
-<h4> 20. Transfer learning 8 堂講座 • 1 小時 46 分鐘
-</h4></summary>
+ 20. Transfer learning 8 堂講座 • 1 小時 46 分鐘
+</summary>
 
 	20.0. Transfer learning: What, why, and when? 16:52
 	20.1. Transfer learning: MNIST -> FMNIST 10:06
@@ -341,8 +341,8 @@
 </details>
 <details>
 	<summary>
-<h4> 21. Style transfer 5 堂講座 • 58 分鐘
-</h4></summary>
+ 21. Style transfer 5 堂講座 • 58 分鐘
+</summary>
 
 	21.0. What is style transfer and how does it work? 04:36
 	21.1. The style transfer algorithm 12:37
@@ -352,8 +352,8 @@
 </details>
 <details>
 	<summary>
-<h4> 22. Generative adversarial networks 7 堂講座 • 1 小時 25 分鐘
-</h4></summary>
+ 22. Generative adversarial networks 7 堂講座 • 1 小時 25 分鐘
+</summary>
 
 	22.0. GAN: What, why, and how 17:22
 	22.1. Linear GAN with MNIST 21:55
@@ -366,8 +366,8 @@
 </details>
 <details>
 	<summary>
-<h4> 23. RNNs (Recurrent Neural Networks) (and GRU/LSTM) 9 堂講座 • 2 小時 48 分鐘
-</h4></summary>
+ 23. RNNs (Recurrent Neural Networks) (and GRU/LSTM) 9 堂講座 • 2 小時 48 分鐘
+</summary>
 
 	23.0. Leveraging sequences in deep learning 12:53
 	23.1. How RNNs work 15:14
@@ -381,8 +381,8 @@
 </details>
 <details>
 	<summary>
-<h4> 24. Ethics of deep learning 5 堂講座 • 49 分鐘
-</h4></summary>
+ 24. Ethics of deep learning 5 堂講座 • 49 分鐘
+</summary>
 
 	24.0. Will AI save us or destroy us? 09:40
 	24.1. Example case studies 06:39
@@ -393,8 +393,8 @@
 </details>
 <details>
 	<summary>
-<h4> 25. Where to go from here? 2 堂講座 • 24 分鐘
-</h4></summary>
+ 25. Where to go from here? 2 堂講座 • 24 分鐘
+</summary>
 
 	25.0. How to learn topic _X_ in deep learning? 08:08
 	25.1. How to read academic DL papers 16:00
@@ -402,8 +402,8 @@
 </details>
 <details>
 	<summary>
-<h4> 26. Python intro: Data types 8 堂講座 • 1 小時 41 分鐘
-</h4></summary>
+ 26. Python intro: Data types 8 堂講座 • 1 小時 41 分鐘
+</summary>
 
 	26.0. How to learn from the Python tutorial 03:25
 	26.1. Variables 18:14
@@ -417,8 +417,8 @@
 </details>
 <details>
 	<summary>
-<h4> 27. Python intro: Indexing, slicing 2 堂講座 • 24 分鐘
-</h4></summary>
+ 27. Python intro: Indexing, slicing 2 堂講座 • 24 分鐘
+</summary>
 
 	27.0. Indexing 12:30
 	27.1. Slicing 11:45
@@ -426,8 +426,8 @@
 </details>
 <details>
 	<summary>
-<h4> 28. Python intro: Functions 8 堂講座 • 1 小時 41 分鐘
-</h4></summary>
+ 28. Python intro: Functions 8 堂講座 • 1 小時 41 分鐘
+</summary>
 
 	28.0. Inputs and outputs 07:01
 	28.1. Python libraries (numpy) 14:20
@@ -441,8 +441,8 @@
 </details>
 <details>
 	<summary>
-<h4> 29. Python intro: Flow control 10 堂講座 • 2 小時 36 分鐘
-</h4></summary>
+ 29. Python intro: Flow control 10 堂講座 • 2 小時 36 分鐘
+</summary>
 
 	29.0. If-else statements 15:03
 	29.1. If-else statements, part 2 16:58
@@ -457,8 +457,8 @@
 </details>
 <details>
 	<summary>
-<h4> 30. Python intro: Text and plots 7 堂講座 • 1 小時 42 分鐘
-</h4></summary>
+ 30. Python intro: Text and plots 7 堂講座 • 1 小時 42 分鐘
+</summary>
 
 	30.0. Printing and string interpolation 17:18
 	30.1. Plotting dots and lines 12:55
@@ -471,12 +471,13 @@
 </details>
 <details>
 	<summary>
-<h4> 31. Bonus section 1 堂講座 • 1 分鐘
-</h4></summary>
+ 31. Bonus section 1 堂講座 • 1 分鐘
+</summary>
 
 	31.0. Bonus content 00:53
 
 </details>
+
 
 === 
 
